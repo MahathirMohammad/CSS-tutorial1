@@ -1,0 +1,181 @@
+
+
+.header{
+	height: 100px;
+	background-color: aqua;
+	font-size: 20px;
+	text-align: center;
+	color: purple;
+}
+.header p{
+	padding-top: 40px;
+}
+.container{
+	overflow: hidden;
+	
+}
+
+.box{
+	height: 150px;
+	width: 50%;
+	float: left;
+	background-color:limegreen; 
+}
+.contact{
+	height: 150px;
+	width: 50%;
+	float: right;
+background-color:lightblue;
+}
+
+.maha{
+	height: 150px;
+	width: 33.33%;
+	float: left;
+}
+.item1{
+	background-color:blue ;
+}
+
+.item2{
+	background-color:grey;
+}
+
+.item3{
+	background-color:blue;
+}
+
+
+
+.mobile{
+	height: 150px;
+	width: 25%;
+	float: left;
+}
+
+.item4{
+	background-color: sandybrown;
+}
+.item5{
+	background-color: purple;
+}
+.item6{
+	background-color: rosybrown;
+}
+.item7{
+	background-color: orange;
+}
+
+.magic{
+	height: 150px;
+	width: 20%;
+	float: left;
+}
+
+
+
+.item8{
+	background-color: yellowgreen;}
+}
+.item9{
+	background-color: aqua;
+}
+.item10{
+	background-color: green;
+}
+.item11{
+	background-color: lightblue;
+}
+.item12{
+	background-color:purple;
+}
+
+.magical{
+	height: 150px;
+	width: 16.66%;
+	float: left;
+}
+
+
+.item13{
+	background-color: purple;
+}
+
+.item14{
+	background-color: lightblue ;
+}
+
+.item15{
+	background-color: indigo;
+}
+
+.item16{
+	background-color: grey;
+}
+
+.item17{
+	background-color: brown;
+}
+
+.item18{
+	background-color: yellowgreen;
+}
+
+
+.footer{
+	background-color: black;
+	height: 80px;
+}
+
+
+
+
+
+
+/*Form and table*/
+
+
+.wrapper{
+	width: 40%;
+	font-size: 16px;
+	border: 3px solid black;
+	margin: auto;
+}
+.account{
+	text-align: center;
+	color: blue;
+}
+wrapper:hover{
+	background-color:#ddd ;
+}
+
+ .firstname, .lastname, .email, .date, .password{
+
+ 	width: 80%;
+ 	padding: 2%;
+ 	font-size: 12px;
+ 	border: 2px solid black;
+ }
+
+
+.wrapper2{border: 5px solid red;
+	width: 120px;
+	padding: 40px;
+	margin: auto;
+	min-height: 30px;
+	font-size: 30px;
+}
+
+ .pot{
+ 	border: 3 px solid black;
+	width: 200px;
+	height: aut0;
+}
+
+
+.magic3{
+	display: inline;
+}
+.magic4{
+	display: inline-block;
+}
